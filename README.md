@@ -1,8 +1,6 @@
 
 
-https://github.com/user-attachments/assets/92ce1002-77e0-4c72-93d0-a66d6e200191
-
-
+https://github.com/user-attachments/assets/e06a3711-0105-4420-b403-8d4ec448e8f0
 
 # 🚗 CarPal — AI-Powered Car Image Analyzer
 
